@@ -1,0 +1,80 @@
+-- front page: --
+
+- mission statement:
+The ORIGN (co-)laboratory develop statistical methods and neuroinformatics tools to investigate neuroscience, neurology, and psychiatry applications with brain imaging and imaging genetics data. The emphasis is on reproducible and open science. We want to produce and evaluate reusable research objects. We also do research on and develop the architecture and design of cyber-infrastructures, research platforms, communication standards and best pracrices to foster the emergence of FAIR, reproducible and publishable research objectives. Through our research projects we work to make the culture of research eveolve to be more open and reusable.
+
+- CTA's
+-- Image (400x300 min)
+-- Title
+-- Description
+-- Link: (to internal page or external source)
+
+-- Image (400x300 min)
+-- Title
+-- Description
+-- Link: (to internal page or external source)
+
+-- Image (400x300 min)
+-- Title
+-- Description
+-- Link: (to internal page or external source)
+
+- Logos (add more if needed)
+-- Image (as a jpg)
+-- Links
+
+- Social Media
+-- Facebook link:
+-- Twitter link:
+-- Linkedin link:
+-- Github link:
+-- (add more if needed)
+
+-- about page --
+
+- Mission statement (title can be changed)
+-- Please fill out more information about ORIGN as well as any other info you'd like to share about the lab, the work, and so forth
+
+- Map
+-- Please go to ttps://www.google.com/maps/d/u/0/ and log in. Create a map and 'share' it. the embed link can replace the map below
+
+-- projects --
+
+- Project List:
+-- please supply me with images of the projects ORIGN is involved in
+
+- Project details
+-- Project name/image (can be the same as what appears on the project list
+-- Project details (written)
+-- Additional info (written, logos, or any other media)
+-- link for the button (if applicable)
+
+-- Products --
+
+- Product image 400wx300h
+- Product Title
+- Product Description
+- Product link/website
+
+-- People --
+
+- Person Image 300x400
+- Name
+- Title
+-- Bio
+-- Project links
+-- contact info and links
+
+-- Contact --
+
+- mailto link
+- phone link
+
+-- Careers --
+
+- job title
+- job description
+- link target (website, mailto, etc)
+
+
+
